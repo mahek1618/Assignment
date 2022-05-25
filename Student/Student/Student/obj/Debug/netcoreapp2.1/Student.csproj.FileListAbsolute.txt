@@ -1,0 +1,14 @@
+C:\Users\mahek.garg\Desktop\Student\Student\Student\bin\Debug\netcoreapp2.1\Student.deps.json
+C:\Users\mahek.garg\Desktop\Student\Student\Student\bin\Debug\netcoreapp2.1\Student.runtimeconfig.json
+C:\Users\mahek.garg\Desktop\Student\Student\Student\bin\Debug\netcoreapp2.1\Student.runtimeconfig.dev.json
+C:\Users\mahek.garg\Desktop\Student\Student\Student\bin\Debug\netcoreapp2.1\Student.dll
+C:\Users\mahek.garg\Desktop\Student\Student\Student\bin\Debug\netcoreapp2.1\Student.pdb
+C:\Users\mahek.garg\Desktop\Student\Student\Student\obj\Debug\netcoreapp2.1\Student.csprojAssemblyReference.cache
+C:\Users\mahek.garg\Desktop\Student\Student\Student\obj\Debug\netcoreapp2.1\Student.csproj.CoreCompileInputs.cache
+C:\Users\mahek.garg\Desktop\Student\Student\Student\obj\Debug\netcoreapp2.1\Student.RazorAssemblyInfo.cache
+C:\Users\mahek.garg\Desktop\Student\Student\Student\obj\Debug\netcoreapp2.1\Student.RazorAssemblyInfo.cs
+C:\Users\mahek.garg\Desktop\Student\Student\Student\obj\Debug\netcoreapp2.1\Student.AssemblyInfoInputs.cache
+C:\Users\mahek.garg\Desktop\Student\Student\Student\obj\Debug\netcoreapp2.1\Student.AssemblyInfo.cs
+C:\Users\mahek.garg\Desktop\Student\Student\Student\obj\Debug\netcoreapp2.1\Student.RazorTargetAssemblyInfo.cache
+C:\Users\mahek.garg\Desktop\Student\Student\Student\obj\Debug\netcoreapp2.1\Student.dll
+C:\Users\mahek.garg\Desktop\Student\Student\Student\obj\Debug\netcoreapp2.1\Student.pdb
